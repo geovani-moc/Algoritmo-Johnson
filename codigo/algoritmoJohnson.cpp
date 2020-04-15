@@ -1,8 +1,9 @@
-/**  ________________________________________________
-    |    PROGRAMADOR: GEOVANI PEREIRA DOS SANTOS     |
-    |       IFNMG - MONTES CLAROS - MG - 2017        |
-    |________________________________________________|
+/**  
+    PROGRAMADOR: GEOVANI PEREIRA DOS SANTOS     
+    IFNMG - MONTES CLAROS - MG - 2017       
+    Algoritmo de Johnson
 **/
+
 #include <iostream>
 #include <stdio.h>
 #include <vector>
